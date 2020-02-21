@@ -1,2 +1,2 @@
-# pollution-all-around
-Its an anti pollution game which promotes greener resources
+# p5.play-boilerplate
+Boiler plate for p5.play
